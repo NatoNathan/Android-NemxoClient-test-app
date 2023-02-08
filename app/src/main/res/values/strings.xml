@@ -13,4 +13,5 @@
     <string name="CallStatus">Start Call</string>
     <string name="MuteBtn">Mute</string>
     <string name="hangupBtn">Hangup</string>
+    <string name="token">Token</string>
 </resources>
