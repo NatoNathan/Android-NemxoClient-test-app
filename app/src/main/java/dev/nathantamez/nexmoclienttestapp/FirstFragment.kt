@@ -26,6 +26,7 @@ class FirstFragment : Fragment() {
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
+        nexmoClient.logout()
 
         _binding = FragmentFirstBinding.inflate(inflater, container, false)
         return binding.root

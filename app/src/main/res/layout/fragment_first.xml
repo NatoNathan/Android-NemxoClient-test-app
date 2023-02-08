@@ -22,13 +22,13 @@
 
         <EditText
             android:id="@+id/tokenInput"
+            android:hint="@string/token"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginEnd="0dp"
             android:ems="10"
             android:inputType="text"
             android:minHeight="68dp"
-            android:text="@string/token"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent" />
 
