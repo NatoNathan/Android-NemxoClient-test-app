@@ -1,1 +1,1 @@
-# Latch Test App
+# Android NexmoClient Test App
